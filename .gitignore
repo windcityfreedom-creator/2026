@@ -1,7 +1,6 @@
 # Only the reviewed static files and these repository instructions are allowed.
 *
 !/.gitignore
-!/README.md
 !/docs/
 /docs/*
 !/docs/index.html
