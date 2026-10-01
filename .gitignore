@@ -1,0 +1,16 @@
+# Only the reviewed static files and these repository instructions are allowed.
+*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/index.html
+!/docs/method.html
+!/docs/councilors/
+/docs/councilors/*
+!/docs/councilors/index.html
+!/docs/mayor/
+/docs/mayor/*
+!/docs/mayor/index.html
+!/docs/mayor/projects.json
+!/docs/.nojekyll
