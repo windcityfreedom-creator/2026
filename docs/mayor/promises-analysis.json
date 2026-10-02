@@ -1,0 +1,605 @@
+{
+  "as_of": "2026-10-02",
+  "source": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/04%E7%B8%A3%E5%B8%82%E9%95%B7/111%E5%B9%B4/01%E7%B4%99%E6%9C%AC%E5%85%AC%E5%A0%B1/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%B8%82%E9%95%B7.pdf#page=1",
+  "source_label": "中選會111年新竹市市長選舉公報：高虹安第6號欄（PDF第1頁）",
+  "rows": [
+    {
+      "category": "教育文化",
+      "number": 1,
+      "label": "智慧教室與竹課雲線上學習",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對設備驗收、學校覆蓋率、竹課雲服務及實際使用。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對設備驗收、學校覆蓋率、竹課雲服務及實際使用。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 2,
+      "label": "先導雙語學校、國際認證課程與師資教材",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對指定學校、師資及課程認證；一般英語活動不能替代。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對指定學校、師資及課程認證；一般英語活動不能替代。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 3,
+      "label": "安心通學交通車、步道與就近入學",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對車輛路線、步道完工及受益學校；道路建設不直接等於完整通學承諾。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對車輛路線、步道完工及受益學校；道路建設不直接等於完整通學承諾。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 4,
+      "label": "營養午餐三章一Q補助與在地食材",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對補助標準、採購食材比例及受益學童；有制度不代表品質改善已驗證。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對補助標準、採購食材比例及受益學童；有制度不代表品質改善已驗證。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 5,
+      "label": "霸凌單一處理窗口與毒品通報網絡",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對窗口啟用、案件處理流程及通報績效。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對窗口啟用、案件處理流程及通報績效。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 6,
+      "label": "體育音樂師資與社團校隊競賽支持",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對各校專長師資缺額、補足人數及參賽支持。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對各校專長師資缺額、補足人數及參賽支持。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "教育文化",
+      "number": 7,
+      "label": "藝文活動、空間與美學教育",
+      "projects": [
+        19,
+        23,
+        25,
+        26,
+        27
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "已對照部分藝文空間工程，多項尚未完成；不能由工程進度推定活動與美學教育全數履行。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "已對照部分藝文空間工程，多項尚未完成；不能由工程進度推定活動與美學教育全數履行。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "宜居永續",
+      "number": 1,
+      "label": "都市水循環與海綿城市減少淹水",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對海綿設施、滯洪量及同雨量條件的淹水改善；污水接管不是同一指標。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對海綿設施、滯洪量及同雨量條件的淹水改善；污水接管不是同一指標。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "宜居永續",
+      "number": 2,
+      "label": "綠屋頂、植被、空氣品質與城市降溫",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對新增面積及長期監測，不能用活動場次代替環境效益。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對新增面積及長期監測，不能用活動場次代替環境效益。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "宜居永續",
+      "number": 3,
+      "label": "淨零路徑、綠運輸與低碳交通",
+      "projects": [
+        18
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "已對照公車改善；淨零路徑、減碳量與整體低碳交通仍缺同口徑證據。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "113年度審計原文確認市府已發布2050淨零排放白皮書，但減量方案與淨零自治條例等執行仍有缺口；可確認路徑文件這項子目標，不能推論整體綠運輸或低碳交通已達成。",
+        "checked_on": "2026-10-02",
+        "sources": [
+          {
+            "label": "113年度審計報告：淨零白皮書與減量方案執行缺失（乙-20起）",
+            "url": "https://auditreport.audit.gov.tw/ServerFile/Download/6388844365523096725a00f148b5f2452eb0a13aa34814a187?isPaging=False",
+            "kind": "審計部獨立查核"
+          }
+        ]
+      }
+    },
+    {
+      "category": "都市發展",
+      "number": 1,
+      "label": "提高污水接管率、供水管網與水質",
+      "projects": [
+        37
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "行政資料有污水接管增量；供水管網與水質改善仍待核，公報未列接管率目標。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "行政資料有污水接管增量；供水管網與水質改善仍待核，公報未列接管率目標。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "都市發展",
+      "number": 2,
+      "label": "都更危老、市容改善與均衡發展",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對實際核准與完工案件、受益範圍及都市計畫執行，不能只列申請量。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對實際核准與完工案件、受益範圍及都市計畫執行，不能只列申請量。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "都市發展",
+      "number": 3,
+      "label": "光埔全區空橋與安全人行空間",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "「全區」需有範圍與逐座交付清單，目前未完成這項原承諾的逐案勾稽。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "「全區」需有範圍與逐座交付清單，目前未完成這項原承諾的逐案勾稽。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "經濟繁榮",
+      "number": 1,
+      "label": "舊城商圈夜市與市場改建",
+      "projects": [
+        3,
+        15
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "北門市場啟用有審計查核、東門青創有市府報告；商圈夜市整體復興與營運效益仍待核。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "北門市場啟用有審計查核、東門青創有市府報告；商圈夜市整體復興與營運效益仍待核。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "經濟繁榮",
+      "number": 2,
+      "label": "公道五產業升級與香山工業區活化",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對核定計畫、已投入土地設施及產業指標，不能將招商宣傳直接算成果。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對核定計畫、已投入土地設施及產業指標，不能將招商宣傳直接算成果。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "經濟繁榮",
+      "number": 3,
+      "label": "「新竹安心創」新創與青創支持",
+      "projects": [
+        15
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "東門青創是相關支持證據，但尚未證明其就是公報所稱支持體系或涵蓋全部目標。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "有東門青創相關資料，但尚未證明就是原政見所指「新竹安心創」支持體系；相近政策不替代原承諾，保留資料不足。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "經濟繁榮",
+      "number": 4,
+      "label": "果菜批發市場遷建與管理",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對遷建招標、施工、驗收及營運原件，未納入既有38項選案不等於沒有執行。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對遷建招標、施工、驗收及營運原件，未納入既有38項選案不等於沒有執行。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "經濟繁榮",
+      "number": 5,
+      "label": "假日觀光巴士串連景點商圈",
+      "projects": [],
+      "status": "路線服務已交付；觀光效益待核",
+      "limit": "已有路線與營運時刻；實際履約班次、搭乘人次、無障礙與觀光效益仍缺完整核驗。",
+      "assessment": {
+        "state": "已達成",
+        "basis": "原承諾是規劃假日觀光巴士，串連景點與文資園區。市府有舊城路線啟動公告，營運網列2026年舊城及香山路線、時刻與免費乘車資訊；核心路線服務已交付。這不表示逐班準點或觀光效益已驗證。",
+        "checked_on": "2026-10-02",
+        "sources": [
+          {
+            "label": "2024-09-11：舊城巡禮線啟動與景點、商家串聯",
+            "url": "https://tourism.hccg.gov.tw/chtravel/app/multimessage_list/view?id=17&module=municipalnews&serno=202409110006",
+            "kind": "市府公告"
+          },
+          {
+            "label": "2026年舊城與香山觀光巴士路線、時刻與免費乘車資訊",
+            "url": "https://www.hsinchusightseeingbus.com.tw/roadmap/roadmap.html",
+            "kind": "營運服務資訊；不是獨立效益查核"
+          }
+        ]
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 1,
+      "label": "婚育支持、幼托量能品質與幼教補助",
+      "projects": [
+        6,
+        7,
+        10,
+        11
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "已找到生育津貼法規等政策；新增公托仍有未完成項目，托育品質與幼教補助需另查。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "已找到生育津貼法規等政策；新增公托仍有未完成項目，托育品質與幼教補助需另查。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 2,
+      "label": "延續老人福利、敬老卡與友善長照",
+      "projects": [
+        8,
+        9,
+        12,
+        13
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "已補核敬老愛心卡10月加碼及長者健保費9月開辦公告；實際使用、健保扣抵與長照完整性仍需核對，不能由津貼或預計受益數推定。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "已補核敬老愛心卡10月加碼及長者健保費9月開辦公告；實際使用、健保扣抵與長照完整性仍需核對，不能由津貼或預計受益數推定。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 3,
+      "label": "身障平權、無障礙與共融遊戲場",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對六大平權各項措施、空間驗收及可近性，不能由單一公園推定全部履行。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對六大平權各項措施、空間驗收及可近性，不能由單一公園推定全部履行。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 4,
+      "label": "新建社宅與年輕家庭租屋補貼",
+      "projects": [
+        21
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "社宅仍未交付，不能把核定或未來戶數算成入住成果；租補執行需另核。",
+      "assessment": {
+        "state": "執行中、未交付",
+        "basis": "社宅仍興建中，已有工程進度但未取得入住交付；原政見另一部分「年輕家庭租屋補貼」亦尚未完成證據對照，不能標整項達成。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 5,
+      "label": "客家原民新住民與國際文化共融",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對各族群措施及參與品質；尚未做完整原政見對照。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對各族群措施及參與品質；尚未做完整原政見對照。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "世代共融",
+      "number": 6,
+      "label": "動物友善環境與福祉",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對設施、收容照護、認養及福利結果；尚未做完整原政見對照。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對設施、收容照護、認養及福利結果；尚未做完整原政見對照。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "交通暢行",
+      "number": 1,
+      "label": "公車路線、低底盤汰換與幹線優惠",
+      "projects": [
+        18
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "公車部分改善指標有審計證據；低底盤汰換覆蓋率及幹線優惠是否完整履行仍待核。",
+      "assessment": {
+        "state": "部分達成",
+        "basis": "公車部分改善指標有審計證據；低底盤汰換覆蓋率及幹線優惠是否完整履行仍待核。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "交通暢行",
+      "number": 2,
+      "label": "巷道及易肇事路段交通安全",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對指定路段完工及事故變化，不能用工程件數代替安全效益。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對指定路段完工及事故變化，不能用工程件數代替安全效益。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "交通暢行",
+      "number": 3,
+      "label": "加速新建立體停車場",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對新建場址、驗收與實際新增車位；既有停車場重啟不當作新建。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對新建場址、驗收與實際新增車位；既有停車場重啟不當作新建。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "交通暢行",
+      "number": 4,
+      "label": "中央補助與道路路網紓解園區壅塞",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需逐項核對道路核定、施工、通車及尖峰旅行時間；尚未完整對照原承諾。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需逐項核對道路核定、施工、通車及尖峰旅行時間；尚未完整對照原承諾。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "交通暢行",
+      "number": 5,
+      "label": "大數據AI與共享綠能智慧交通",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對上線服務、覆蓋範圍及安全效益，不能由AI名目推定成果。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對上線服務、覆蓋範圍及安全效益，不能由AI名目推定成果。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "開放對話",
+      "number": 1,
+      "label": "新竹縣市整合溝通平台",
+      "projects": [],
+      "status": "平台已成立並有會議紀錄；跨域成效待核",
+      "limit": "市、縣雙方紀錄可相互核對成立與運作；不能把討論案件數當作已解決問題數。",
+      "assessment": {
+        "state": "已達成",
+        "basis": "公報承諾成立縣市整合溝通平台。市府公告及縣府施政報告均記載2023年2月成立、3月16日簽MOU，並已召開合作會議；平台成立這項核心交付已完成。生活圈改善效益另查。",
+        "checked_on": "2026-10-02",
+        "sources": [
+          {
+            "label": "2023-11-22：平台成立、MOU與定期合作會議",
+            "url": "https://dep-administration.hccg.gov.tw/ch/home.jsp?dataserno=202311220003&id=6&mcustomize=municipalnews_view.jsp&mserno=201601300318&parentpath=0&t=MunicipalNews&toolsflag=Y",
+            "kind": "新竹市府原始公告"
+          },
+          {
+            "label": "新竹縣議會第20屆第1次施政報告：平台成立與幕僚長會議（印刷頁122）",
+            "url": "https://ws.hsinchu.gov.tw/Download.ashx?n=MjAtMeaWveaUv%2BWgseWRii5wZGY%3D&u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg3MDAvMjUwODg4LzViMTZiY2E4LTBjY2YtNDNiZS1hMmNhLTE2YWY2OWIyZmM2MC5wZGY%3D",
+            "kind": "合作方政府原始紀錄；不是獨立成效審核"
+          }
+        ]
+      }
+    },
+    {
+      "category": "開放對話",
+      "number": 2,
+      "label": "公民參與市政與參與式預算",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對平台、提案審議及實際執行預算；不能把一般陳情系統直接等同。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對平台、提案審議及實際執行預算；不能把一般陳情系統直接等同。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "開放對話",
+      "number": 3,
+      "label": "開放資料與結構化應用",
+      "projects": [],
+      "status": "待核：尚未完成原承諾對照",
+      "limit": "需核對新增資料、更新頻率、機器可讀格式及再利用情況。",
+      "assessment": {
+        "state": "資料不足",
+        "basis": "需核對新增資料、更新頻率、機器可讀格式及再利用情況。",
+        "checked_on": "2026-10-02",
+        "sources": []
+      }
+    },
+    {
+      "category": "開放對話",
+      "number": 4,
+      "label": "新竹通APP整合市民服務",
+      "projects": [
+        16
+      ],
+      "status": "已有相關執行資料；完整履行待核",
+      "limit": "已核對平台上線；服務整合範圍、使用品質與實際效益仍待核。",
+      "assessment": {
+        "state": "已達成",
+        "basis": "公報指定以新竹通APP整合市民服務。2025-08-14行政公告記載上線試營運，列交通查詢、線上申辦、繳費及借閱等整合功能；依行政資料判定平台交付已達成，功能穩定性與效益未作獨立實測。",
+        "checked_on": "2026-10-02",
+        "sources": [
+          {
+            "label": "2025-08-14：新竹通試營運與已整合的服務類型",
+            "url": "https://icity.hccg.gov.tw/cityland/app/data/view?id=10&module=municipalnews&serno=fed9d3da-1460-4648-aec4-46805dde6fff",
+            "kind": "市府行政公告；未完成獨立功能實測"
+          }
+        ]
+      }
+    }
+  ],
+  "metrics": [
+    {
+      "label": "每胎生育津貼3萬元",
+      "promise": "2022-10-24競選說明：每胎3萬元。",
+      "status": "金額政策已施行",
+      "finding": "現行生育津貼要點第4點列每胎3萬元；這確認政策金額，沒有證明生育率或家庭負擔改善。",
+      "evidence": "https://law.hccg.gov.tw/LawContent.aspx?id=GL000025&media=print",
+      "evidence_label": "市府法規：生育津貼要點（2024-10-23修正）",
+      "gap": "仍需實際核發、受益人數、支出與效益資料。",
+      "project": 11,
+      "promise_source": "https://www.cna.com.tw/news/aipl/202210240216.aspx",
+      "assessment_state": "已達成"
+    },
+    {
+      "label": "生育津貼設籍6個月門檻",
+      "promise": "同一競選說明：孕媽媽設籍6個月即可領取。",
+      "status": "現行資格與競選說明不同",
+      "finding": "現行要點第3點要求父母之一方自新生兒出生日起一年前至申請時連續設籍。第5點的「出生後6個月內申請」是申請期限，不能混當設籍門檻。",
+      "evidence": "https://law.hccg.gov.tw/LawContent.aspx?id=GL000025&media=print",
+      "evidence_label": "市府法規：資格與申請期限（第3、5點）",
+      "gap": "此差異應保留；尚未核得改採一年門檻的完整政策說明與過渡沿革。",
+      "project": 11,
+      "promise_source": "https://www.cna.com.tw/news/aipl/202210240216.aspx",
+      "assessment_state": "尚未達成"
+    },
+    {
+      "label": "月嫂媒合平台與認證",
+      "promise": "同一競選說明：建月嫂媒合平台、透明資訊並推動認證。",
+      "status": "已核對媒合平台；品質與認證待核",
+      "finding": "市府月嫂媒合網站與申請表可公開存取，足以確認平台已建置；平台存在不等於媒合成功或服務品質已獨立驗證。",
+      "evidence": "https://hsinchu-nanny.hccg.gov.tw/home",
+      "evidence_label": "市府月嫂媒合平台與服務申請入口",
+      "gap": "需核對正式認證標準、有效月嫂名單、完成服務數及申訴結果。",
+      "project": null,
+      "promise_source": "https://www.cna.com.tw/news/aipl/202210240216.aspx",
+      "assessment_state": "部分達成"
+    },
+    {
+      "label": "四年內幼教公私比1：1",
+      "promise": "同一競選說明：四年內公私比1：1。",
+      "status": "證據不足；統計口徑待釐清",
+      "finding": "競選報導未定義公私比是園所數、名額或實際就讀人數；既有公托與新增公托不能直接替代幼教比率。未取得同口徑全市比率前，不判定達成或未達成。",
+      "evidence": "https://www.cna.com.tw/news/aipl/202210240216.aspx",
+      "evidence_label": "中央社2022-10-24競選說明（原目標）",
+      "gap": "需核對市府對分子分母、政策範圍及四年期限的原始定義，再比對同口徑最新資料。",
+      "project": 7,
+      "promise_source": "https://www.cna.com.tw/news/aipl/202210240216.aspx",
+      "assessment_state": "資料不足"
+    }
+  ],
+  "analysis_method": {
+    "unit": "固定使用2022年選舉公報7類33條，一條一件；不把同一成果拆成多件，也不把選定競選發言混入分母。",
+    "achieved": "原條目的核心可辨識交付已完成；建立平台、開行服務與可核實制度規格可列達成。行政來源的判定會註明，政策交付不等於效益已獨立驗證。",
+    "partial": "至少一項直接對應的子目標已交付或有可核實增量，整項其他目標仍缺證據；相關名稱或宣傳不足以判部分達成。",
+    "in_progress": "有同案執行資料但核心成果尚未交付，與部分交付分開呈現。",
+    "not_achieved": "有同口徑證據證明原目標目前未達或規格不符；尚未到原期限者不判最終違約。",
+    "unknown": "資料不足、目標口徑不明或僅有相近政策，均不當成失敗。",
+    "rate": "已核證達成占比＝已達成條數÷全部33條。只代表目前證據下限；有待核項目時不能稱完整任期達成率。部分與施工中不給折算比例。",
+    "coverage": "可作進度判讀條數＝已達成＋部分達成＋執行中未交付＋尚未達成；覆核覆蓋率為這些條數÷33，並列資料不足比例。",
+    "term": "核對截至2026-10-02，2022-12-25起的四年任期尚未結束；包含代理市長與市府團隊執行，個人歸屬另列。"
+  },
+  "counts": {
+    "已達成": 3,
+    "部分達成": 7,
+    "執行中、未交付": 1,
+    "尚未達成": 0,
+    "資料不足": 22
+  },
+  "denominator": 33,
+  "achieved_share": 0.09090909090909091,
+  "review_coverage": 0.3333333333333333
+}
