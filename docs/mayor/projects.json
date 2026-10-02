@@ -1416,6 +1416,109 @@
         "checked_on": "2026-10-02",
         "finding": "112年度文化局預算已列109至111年度編列4億290萬元，補強跨任投入時間線；112年度審計表11另列4,500萬元計畫型補助款全額保留。預算編列、補助保留與工程總經費是不同口徑。",
         "limit": "仍缺同案後續年度決算、保留款轉列支出與完整契約變更勾稽；這兩份112年度資料不能證明2026年最新完工狀態。"
+      },
+      "engineering": {
+        "checked_on": "2026-10-02",
+        "scope": "新總館暨停車場興建工程；設備與開館服務另行核驗。",
+        "money": "審計資料列2022年工程契約約12.5466億元；市府公告16.4億元屬整體工程經費，兩者口徑不同。仍缺最終結算與完整契約變更文件。",
+        "events": [
+          {
+            "stage": "前期規劃",
+            "date": "2019年",
+            "term": "前任市府階段",
+            "text": "審計記載2019年獲中央補助，原計畫期程2019至2022年，後續多次修正。",
+            "evidence_status": "審計記載",
+            "sources": [
+              {
+                "label": "113年度審核報告：總圖工程（乙-33至34）",
+                "url": "https://auditreport.audit.gov.tw/ServerFile/Get/6388844488172037361d7c488f752f4d70bea2b8ac7b30f681",
+                "kind": "審計部獨立查核"
+              }
+            ]
+          },
+          {
+            "stage": "預算核定",
+            "date": "歷年編列；核定原件待補",
+            "term": "跨任投入",
+            "text": "112年度預算列109至111年度編列4億290萬元；編列不等於實支，尚缺原核定及歷次修正函。",
+            "evidence_status": "預算原件；核定待補",
+            "sources": [
+              {
+                "label": "112年度文化局預算：新總館跨年度編列額",
+                "url": "https://culture.hccg.gov.tw/uploaddowndoc?file=infopublic%2F202211281722420.pdf&filedisplay=112%E5%B9%B4%E5%BA%A6%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%87%E5%8C%96%E5%B1%80.pdf&flag=doc",
+                "kind": "市府／預算原始資料"
+              }
+            ]
+          },
+          {
+            "stage": "決標",
+            "date": "2022年6月；7月1日簽約公告",
+            "term": "前任市府階段",
+            "text": "文化局公告偉邦營造得標；審計亦記載2022年6月決標。本輪尚未取得採購網決標公告原頁，不填未核實的精確日期及案號。",
+            "evidence_status": "行政公告＋審計記載",
+            "sources": [
+              {
+                "label": "2022工程簽約公告：當時稱16.4億元、2025年完工",
+                "url": "https://culture.hccg.gov.tw/ch/home.jsp?dataserno=202207010004&id=531&mcustomize=municipalnews_view.jsp&mserno=201601300215&parentpath=&t=MunicipalNews&toolsflag=Y",
+                "kind": "前任市府公告／原始公開目標"
+              },
+              {
+                "label": "113年度審核報告：總圖工程（乙-33至34）",
+                "url": "https://auditreport.audit.gov.tw/ServerFile/Get/6388844488172037361d7c488f752f4d70bea2b8ac7b30f681",
+                "kind": "審計部獨立查核"
+              }
+            ]
+          },
+          {
+            "stage": "開工／施工",
+            "date": "2022年10月開工；2026年9月報告",
+            "term": "前任開工、本任續建",
+            "text": "審計記載開工月份；第8次報告載地上2樓底板灌漿。開工與目前施工分屬不同任期；最新進度是市府自述。",
+            "evidence_status": "審計記載＋市府自述",
+            "sources": [
+              {
+                "label": "113年度審核報告：總圖工程（乙-33至34）",
+                "url": "https://auditreport.audit.gov.tw/ServerFile/Get/6388844488172037361d7c488f752f4d70bea2b8ac7b30f681",
+                "kind": "審計部獨立查核"
+              },
+              {
+                "label": "第8次施政報告：新會展規劃、工區活化與總圖（PDF第131至132頁）",
+                "url": "https://www.hccg.gov.tw/hccg/app/data/doc?id=30522&module=Mayorgovernance&detailNo=1549294628417572864&serno=dee91e5b-ad4b-410f-95e9-1dd75abd9fe6&type=s&preview=&aplistdn=#page=131",
+                "kind": "市府施政自述／已回查PDF原頁"
+              }
+            ]
+          },
+          {
+            "stage": "竣工",
+            "date": "2027年主結構完工目標",
+            "term": "本任公布未來排程",
+            "text": "施政報告列未來主結構完工目標，不能視為整體竣工；尚未取得竣工原件。",
+            "evidence_status": "排程，尚非完成證據",
+            "sources": [
+              {
+                "label": "第8次施政報告：新會展規劃、工區活化與總圖（PDF第131至132頁）",
+                "url": "https://www.hccg.gov.tw/hccg/app/data/doc?id=30522&module=Mayorgovernance&detailNo=1549294628417572864&serno=dee91e5b-ad4b-410f-95e9-1dd75abd9fe6&type=s&preview=&aplistdn=#page=131",
+                "kind": "市府施政自述／已回查PDF原頁"
+              }
+            ]
+          },
+          {
+            "stage": "驗收合格",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚未取得此興建工程的驗收紀錄、複驗結果及結算驗收證明書，不據此推定從未辦理驗收。",
+            "evidence_status": "原件待補",
+            "sources": []
+          },
+          {
+            "stage": "正式啟用",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚未取得新總館正式開館及持續使用紀錄；既有分館營運不能代替新總館交付。",
+            "evidence_status": "原件待補",
+            "sources": []
+          }
+        ]
       }
     },
     {
@@ -1613,6 +1716,96 @@
         "checked_on": "2026-10-02",
         "finding": "以中央興辦機關原始公告補核跨任起點：中雅決標與金城招標均在2022年。中雅現行頁面仍顯示興建中，不能把排程中的竣工日期當完成證據。",
         "limit": "不同時點戶數與2,826戶總量的案別範圍尚待勾稽；需逐案補驗收、招租與入住紀錄。開工典禮日期與工程開工日期應分開。"
+      },
+      "engineering": {
+        "checked_on": "2026-10-02",
+        "scope": "本時間線僅核對中雅安居，不能外推為全市社宅均已達成。中央主辦工程與市府協作分開。",
+        "money": "尚未取得此案統包契約金額、完整變更與最終結算的原件勾稽；不以2,826戶規劃總量替代中雅安居交付。",
+        "events": [
+          {
+            "stage": "前期規劃",
+            "date": "2021-11-25／2022-01-04招標公告",
+            "term": "中央興辦／前任市府期間",
+            "text": "住都中心歷史採購清單列110C-060及第二次招標110C-060-1；是同一興建案的招標歷程，不算兩項建設。",
+            "evidence_status": "中央採購歷史清單",
+            "sources": [
+              {
+                "label": "住都中心歷史採購清單：中雅安居110C-060／110C-060-1",
+                "url": "https://www.hurc.org.tw/hurc/proHist",
+                "kind": "中央興辦機關採購資料"
+              }
+            ]
+          },
+          {
+            "stage": "預算核定",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚缺此案原核定計畫、經費核定及歷次修正文件。",
+            "evidence_status": "原件待補",
+            "sources": []
+          },
+          {
+            "stage": "決標",
+            "date": "2022-01-20",
+            "term": "中央興辦／前任市府期間",
+            "text": "住都中心公告雙喜營造與金光裕建築師統包團隊得標，早於本任2022-12-25就職。",
+            "evidence_status": "中央興辦機關公告",
+            "sources": [
+              {
+                "label": "2022-01-20：住都中心中雅安居統包工程決標",
+                "url": "https://www.hurc.org.tw/hurc/docDetail?doc_id=870&pid=10&uid=17",
+                "kind": "中央興辦機關原始資料",
+                "checked_on": "2026-10-02"
+              }
+            ]
+          },
+          {
+            "stage": "開工／施工",
+            "date": "2023-02-15；核對時仍興建中",
+            "term": "中央興辦／本任市府期間",
+            "text": "住都中心專案頁列工程開工日期及興建中；不把2022年動土典禮當作工程開工日期。",
+            "evidence_status": "中央專案進度頁",
+            "sources": [
+              {
+                "label": "2026-10-02核對：中雅安居興建中、638戶與工程排程",
+                "url": "https://sh.hurc.org.tw/O/O-300-001",
+                "kind": "中央興辦機關原始資料",
+                "checked_on": "2026-10-02"
+              }
+            ]
+          },
+          {
+            "stage": "竣工",
+            "date": "2027-01-30排程",
+            "term": "中央興辦／未來排程",
+            "text": "專案頁列638戶、未來竣工日期；2022年決標公告640戶為當時規劃，不視為已交付戶數。",
+            "evidence_status": "排程，尚非完成證據",
+            "sources": [
+              {
+                "label": "2026-10-02核對：中雅安居興建中、638戶與工程排程",
+                "url": "https://sh.hurc.org.tw/O/O-300-001",
+                "kind": "中央興辦機關原始資料",
+                "checked_on": "2026-10-02"
+              }
+            ]
+          },
+          {
+            "stage": "驗收合格",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚未取得中雅安居驗收合格原件。",
+            "evidence_status": "原件待補",
+            "sources": []
+          },
+          {
+            "stage": "正式啟用",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚未取得中雅安居招租、點交及實際入住紀錄，不把規劃戶數當入住成果。",
+            "evidence_status": "原件待補",
+            "sources": []
+          }
+        ]
       }
     },
     {
@@ -2109,6 +2302,12 @@
           "url": "https://www.cna.com.tw/news/ahel/202609070258.aspx",
           "label": "2026-09-07地下停車場重啟試營運",
           "kind": "中央社報導市府使用公告"
+        },
+        {
+          "label": "政府電子採購網：114A049棒球場改善工程決標公告",
+          "url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20250917&fn=BDM-1-70974550.xml",
+          "kind": "政府電子採購網決標原頁",
+          "checked_on": "2026-10-02"
         }
       ],
       "report": 8,
@@ -2163,7 +2362,112 @@
             103
           ]
         }
-      ]
+      ],
+      "engineering": {
+        "checked_on": "2026-10-02",
+        "scope": "本任棒球場改善工程；原重建、覆土移除、改善設計監造、開幕活動及營運移轉為不同契約，不能合併成單一標案。",
+        "money": "114A049原決標金額133,730,000元，契約編號(114)府行庶字第054號；這是改善工程原決標額，非全部修復成本或最終結算。仍缺各相關案、變更價款及結算原件。",
+        "events": [
+          {
+            "stage": "前期規劃",
+            "date": "2025年上半年規劃設計",
+            "term": "本任市府（邱臣遠代理期間）",
+            "text": "工務處公告改善工程完成規劃設計並歷經流標後修正招標內容；原重建於前任推動，另案呈現。",
+            "evidence_status": "市府公告",
+            "sources": [
+              {
+                "label": "市府宣布改善工程由泰欣營造決標",
+                "url": "https://dep-publicwork.hccg.gov.tw/ch/home.jsp?dataserno=8bc1e88f-947f-4cbe-9ca1-349fe21d413d&id=16&mcustomize=municipalnews_view.jsp&mserno=201604040001&parentpath=&t=MunicipalNews&toolsflag=Y",
+                "kind": "市府自述；本次核對可檢索公告摘錄，全文存取受限"
+              }
+            ]
+          },
+          {
+            "stage": "預算核定",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "尚未取得改善工程原經費核定及追加預算原件；決標額不能代替計畫核定額。",
+            "evidence_status": "原件待補",
+            "sources": []
+          },
+          {
+            "stage": "決標",
+            "date": "2025-09-11決標；09-17公告",
+            "term": "本任市府（邱臣遠代理期間）",
+            "text": "已讀採購網決標原頁：案號114A049、泰欣營造得標、總決標133,730,000元。決標日期與公告日期分開。",
+            "evidence_status": "決標原頁已核對",
+            "sources": [
+              {
+                "label": "政府電子採購網：114A049棒球場改善工程決標公告",
+                "url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20250917&fn=BDM-1-70974550.xml",
+                "kind": "政府電子採購網決標原頁",
+                "checked_on": "2026-10-02"
+              }
+            ]
+          },
+          {
+            "stage": "開工／施工",
+            "date": "2025-09-30",
+            "term": "本任市府（邱臣遠代理期間）",
+            "text": "市府工程進度公告記載開工、原工期266日。決標頁另列預估履約起迄2025-09-15至2026-06-15；預估履約日不是實際開工或驗收日。",
+            "evidence_status": "市府公告；開工原件待補",
+            "sources": [
+              {
+                "label": "市府工程進度公告載9月30日開工、工期266日",
+                "url": "https://dep-publicwork.hccg.gov.tw/ch/home.jsp?dataserno=c3655c26-02b5-4c28-81c5-118c159e855a&id=16&mcustomize=municipalnews_view.jsp&mserno=201601300036&parentpath=&t=MunicipalNews&toolsflag=Y",
+                "kind": "市府自述；本次核對可檢索公告摘錄，全文存取受限"
+              },
+              {
+                "label": "政府電子採購網：114A049棒球場改善工程決標公告",
+                "url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20250917&fn=BDM-1-70974550.xml",
+                "kind": "政府電子採購網決標原頁",
+                "checked_on": "2026-10-02"
+              }
+            ]
+          },
+          {
+            "stage": "竣工",
+            "date": "未取得",
+            "term": "尚無法判定",
+            "text": "市府已公告後續驗收，但尚未取得改善工程竣工申報及確認原件，不能倒推精確竣工日。",
+            "evidence_status": "原件待補",
+            "sources": []
+          },
+          {
+            "stage": "驗收合格",
+            "date": "市府稱2026-09-14驗收完成",
+            "term": "本任市府；個人主導未核",
+            "text": "9月18日中央社轉述市府驗收公告；尚未取得驗收紀錄、缺失改正表與結算驗收證明書。",
+            "evidence_status": "驗收公告；原件待補",
+            "sources": [
+              {
+                "label": "市府稱改善工程9月14日完成驗收",
+                "url": "https://www.cna.com.tw/news/aloc/202609180124.aspx",
+                "kind": "中央社轉述市府進度；未取得驗收原件"
+              }
+            ]
+          },
+          {
+            "stage": "正式啟用",
+            "date": "地下停車場2026-09-07試營運；球場待核",
+            "term": "本任市府；場地與停車場分開",
+            "text": "已查停車場重啟公告；球場開幕活動採購與工程驗收是不同程序，尚未取得正式賽事及持續營運成果。",
+            "evidence_status": "使用公告；球場營運待核",
+            "sources": [
+              {
+                "label": "地下停車場9月7日重啟試營運",
+                "url": "https://www.cna.com.tw/news/ahel/202609070258.aspx",
+                "kind": "中央社報導市府公告；未取得使用量統計"
+              },
+              {
+                "label": "市府稱改善工程9月14日完成驗收",
+                "url": "https://www.cna.com.tw/news/aloc/202609180124.aspx",
+                "kind": "中央社轉述市府進度；未取得驗收原件"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "name": "市立田徑場整修",
