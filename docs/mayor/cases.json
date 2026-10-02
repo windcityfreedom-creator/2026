@@ -476,6 +476,15 @@
             "sources": [
               "culture_report8"
             ]
+          },
+          {
+            "label": "112年度預算與補助保留（10月2日補核）",
+            "text": "文化局112年度預算列109至111年度已編列4億290萬元；112年度審計表11列新總館暨停車場計畫型補助款4,500萬元全額保留未執行。",
+            "analysis": "編列額不是已花金額；4,500萬元是當年度特定補助款，不能說成全部工程停工或2026年仍未支用。仍須與後續決算、契約及工項範圍勾稽。",
+            "sources": [
+              "library_budget112",
+              "library_retained112"
+            ]
           }
         ]
       },
@@ -764,6 +773,20 @@
       "url": "https://culture.hccg.gov.tw/ch/home.jsp?dataserno=202207010004&id=531&mcustomize=municipalnews_view.jsp&mserno=201601300215&parentpath=&t=MunicipalNews&toolsflag=Y",
       "kind": "前任市府公告／原始公開目標",
       "date": "2022-07-01",
+      "checked": "2026-10-02"
+    },
+    "library_budget112": {
+      "label": "112年度文化局預算：新總館跨年度編列額",
+      "url": "https://culture.hccg.gov.tw/uploaddowndoc?file=infopublic%2F202211281722420.pdf&filedisplay=112%E5%B9%B4%E5%BA%A6%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%87%E5%8C%96%E5%B1%80.pdf&flag=doc",
+      "kind": "市府／預算原始資料",
+      "date": "112年度（2023年）預算",
+      "checked": "2026-10-02"
+    },
+    "library_retained112": {
+      "label": "112年度審計報告表11：新總館暨停車場補助款全額保留",
+      "url": "https://auditreport.audit.gov.tw/ServerFile/Download/6385905639677443238d307304150c4f96bfe6799f0c5dd33f?isPaging=False",
+      "kind": "審計部獨立查核",
+      "date": "112年度（2023年）審核",
       "checked": "2026-10-02"
     }
   }
