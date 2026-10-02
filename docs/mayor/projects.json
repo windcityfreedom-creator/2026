@@ -1,7 +1,7 @@
 {
   "as_of": "2026-10-01",
   "term_start": "2022-12-25",
-  "scope": "38項主要計畫與政策；不是985頁每一項主張皆已逐筆驗證；2026-10-02補核敬老卡、長者健保、社宅與總圖4案，其餘沿用既有來源。",
+  "scope": "38項主要計畫與政策；不是985頁每一項主張皆已逐筆驗證；2026-10-02補核敬老卡、長者健保、社宅與總圖4案；2026-10-03補核污水及公共債務中央原表，其餘沿用既有來源。",
   "projects": [
     {
       "name": "竹風漁市（漁產品直銷中心）",
@@ -490,17 +490,22 @@
           "kind": "市府施政自述"
         },
         {
-          "label": "前任2022年報告 PDF第24頁",
-          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=24",
-          "kind": "前任市府施政自述"
-        },
-        {
           "label": "2026-10-01：敬老愛心卡點數與生效日公告",
           "url": "https://dep.hcchb.gov.tw/ch/home.jsp?dataserno=36217742-0749-4c76-a70a-c2618b15f74e&id=5&mcustomize=municipalnews_view.jsp&mserno=201601300317&parentpath=0%2C4&t=MunicipalNews&toolsflag=Y",
           "kind": "市府／行政原始資料",
           "checked_on": "2026-10-02"
+        },
+        {
+          "label": "前任2022年報告 PDF第24頁",
+          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=24",
+          "kind": "前任市府施政自述"
         }
       ],
+      "crosscheck": {
+        "checked_on": "2026-10-02",
+        "finding": "第8次施政報告列為規劃的1,200點，已有2026-10-01行政公告補證；YouBike 2.0E的10月16日生效日仍未到，不能列已提供。",
+        "limit": "持卡人數、使用率與受益情形仍須同口徑的票證或核銷資料核驗。"
+      },
       "report": 8,
       "mentions": [
         {
@@ -565,12 +570,7 @@
             133
           ]
         }
-      ],
-      "crosscheck": {
-        "checked_on": "2026-10-02",
-        "finding": "第8次施政報告列為規劃的1,200點，已有2026-10-01行政公告補證；YouBike 2.0E的10月16日生效日仍未到，不能列已提供。",
-        "limit": "持卡人數、使用率與受益情形仍須同口徑的票證或核銷資料核驗。"
-      }
+      ]
     },
     {
       "name": "愛老津貼",
@@ -869,6 +869,11 @@
           "checked_on": "2026-10-02"
         }
       ],
+      "crosscheck": {
+        "checked_on": "2026-10-02",
+        "finding": "9月開辦公告比施政報告的第4季規劃更明確；前任既有弱勢補助與本任擴大適用分開，避免把整個制度算成首次創立。",
+        "limit": "尚缺健保署實際扣抵人數、撥款與核退資料；受益估計不能替代實際成果。"
+      },
       "report": 8,
       "mentions": [
         {
@@ -905,12 +910,7 @@
             105
           ]
         }
-      ],
-      "crosscheck": {
-        "checked_on": "2026-10-02",
-        "finding": "9月開辦公告比施政報告的第4季規劃更明確；前任既有弱勢補助與本任擴大適用分開，避免把整個制度算成首次創立。",
-        "limit": "尚缺健保署實際扣抵人數、撥款與核退資料；受益估計不能替代實際成果。"
-      }
+      ]
     },
     {
       "name": "幸福宜居網",
@@ -1343,11 +1343,6 @@
           "kind": "市府／行政原始資料"
         },
         {
-          "label": "前任2022年報告 PDF第19頁",
-          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=19",
-          "kind": "前任市府施政自述"
-        },
-        {
           "label": "113年度審核報告：總圖工程（乙-33至34）",
           "url": "https://auditreport.audit.gov.tw/ServerFile/Get/6388844488172037361d7c488f752f4d70bea2b8ac7b30f681",
           "kind": "審計部獨立查核"
@@ -1368,48 +1363,11 @@
           "url": "https://culture.hccg.gov.tw/uploaddowndoc?file=infopublic%2F202211281722420.pdf&filedisplay=112%E5%B9%B4%E5%BA%A6%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%87%E5%8C%96%E5%B1%80.pdf&flag=doc",
           "kind": "市府／預算原始資料",
           "checked_on": "2026-10-02"
-        }
-      ],
-      "report": 8,
-      "mentions": [
-        {
-          "session": 2,
-          "pages": [
-            120
-          ]
         },
         {
-          "session": 4,
-          "pages": [
-            121
-          ]
-        },
-        {
-          "session": 5,
-          "pages": [
-            101
-          ]
-        },
-        {
-          "session": 6,
-          "pages": [
-            72
-          ]
-        },
-        {
-          "session": 7,
-          "pages": [
-            6,
-            128
-          ]
-        },
-        {
-          "session": 8,
-          "pages": [
-            7,
-            120,
-            132
-          ]
+          "label": "前任2022年報告 PDF第19頁",
+          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=19",
+          "kind": "前任市府施政自述"
         }
       ],
       "crosscheck": {
@@ -1519,7 +1477,49 @@
             "sources": []
           }
         ]
-      }
+      },
+      "report": 8,
+      "mentions": [
+        {
+          "session": 2,
+          "pages": [
+            120
+          ]
+        },
+        {
+          "session": 4,
+          "pages": [
+            121
+          ]
+        },
+        {
+          "session": 5,
+          "pages": [
+            101
+          ]
+        },
+        {
+          "session": 6,
+          "pages": [
+            72
+          ]
+        },
+        {
+          "session": 7,
+          "pages": [
+            6,
+            128
+          ]
+        },
+        {
+          "session": 8,
+          "pages": [
+            7,
+            120,
+            132
+          ]
+        }
+      ]
     },
     {
       "name": "中油油庫遷移與重劃",
@@ -1631,11 +1631,6 @@
           "kind": "市府施政自述"
         },
         {
-          "label": "前任2022年報告 PDF第28頁",
-          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=28",
-          "kind": "前任市府施政自述"
-        },
-        {
           "label": "2022-01-20：住都中心中雅安居統包工程決標",
           "url": "https://www.hurc.org.tw/hurc/docDetail?doc_id=870&pid=10&uid=17",
           "kind": "中央興辦機關原始資料",
@@ -1652,64 +1647,11 @@
           "url": "https://sh.hurc.org.tw/O/O-300-001",
           "kind": "中央興辦機關原始資料",
           "checked_on": "2026-10-02"
-        }
-      ],
-      "report": 8,
-      "mentions": [
-        {
-          "session": 2,
-          "pages": [
-            6,
-            92,
-            100,
-            101
-          ]
         },
         {
-          "session": 3,
-          "pages": [
-            37,
-            40,
-            45
-          ]
-        },
-        {
-          "session": 4,
-          "pages": [
-            102,
-            103
-          ]
-        },
-        {
-          "session": 5,
-          "pages": [
-            104
-          ]
-        },
-        {
-          "session": 6,
-          "pages": [
-            58
-          ]
-        },
-        {
-          "session": 7,
-          "pages": [
-            6,
-            100,
-            101,
-            102
-          ]
-        },
-        {
-          "session": 8,
-          "pages": [
-            7,
-            57,
-            104,
-            105,
-            106
-          ]
+          "label": "前任2022年報告 PDF第28頁",
+          "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=28",
+          "kind": "前任市府施政自述"
         }
       ],
       "crosscheck": {
@@ -1806,7 +1748,65 @@
             "sources": []
           }
         ]
-      }
+      },
+      "report": 8,
+      "mentions": [
+        {
+          "session": 2,
+          "pages": [
+            6,
+            92,
+            100,
+            101
+          ]
+        },
+        {
+          "session": 3,
+          "pages": [
+            37,
+            40,
+            45
+          ]
+        },
+        {
+          "session": 4,
+          "pages": [
+            102,
+            103
+          ]
+        },
+        {
+          "session": 5,
+          "pages": [
+            104
+          ]
+        },
+        {
+          "session": 6,
+          "pages": [
+            58
+          ]
+        },
+        {
+          "session": 7,
+          "pages": [
+            6,
+            100,
+            101,
+            102
+          ]
+        },
+        {
+          "session": 8,
+          "pages": [
+            7,
+            57,
+            104,
+            105,
+            106
+          ]
+        }
+      ]
     },
     {
       "name": "大新竹輕軌",
@@ -2310,59 +2310,6 @@
           "checked_on": "2026-10-02"
         }
       ],
-      "report": 8,
-      "mentions": [
-        {
-          "session": 2,
-          "pages": [
-            86,
-            87,
-            122
-          ]
-        },
-        {
-          "session": 3,
-          "pages": [
-            87,
-            89
-          ]
-        },
-        {
-          "session": 4,
-          "pages": [
-            89
-          ]
-        },
-        {
-          "session": 5,
-          "pages": [
-            99
-          ]
-        },
-        {
-          "session": 6,
-          "pages": [
-            73
-          ]
-        },
-        {
-          "session": 7,
-          "pages": [
-            84,
-            98
-          ]
-        },
-        {
-          "session": 8,
-          "pages": [
-            7,
-            84,
-            99,
-            100,
-            103
-          ]
-        }
-      ],
       "engineering": {
         "checked_on": "2026-10-02",
         "scope": "本任棒球場改善工程；原重建、覆土移除、改善設計監造、開幕活動及營運移轉為不同契約，不能合併成單一標案。",
@@ -2467,7 +2414,60 @@
             ]
           }
         ]
-      }
+      },
+      "report": 8,
+      "mentions": [
+        {
+          "session": 2,
+          "pages": [
+            86,
+            87,
+            122
+          ]
+        },
+        {
+          "session": 3,
+          "pages": [
+            87,
+            89
+          ]
+        },
+        {
+          "session": 4,
+          "pages": [
+            89
+          ]
+        },
+        {
+          "session": 5,
+          "pages": [
+            99
+          ]
+        },
+        {
+          "session": 6,
+          "pages": [
+            73
+          ]
+        },
+        {
+          "session": 7,
+          "pages": [
+            84,
+            98
+          ]
+        },
+        {
+          "session": 8,
+          "pages": [
+            7,
+            84,
+            99,
+            100,
+            103
+          ]
+        }
+      ]
     },
     {
       "name": "市立田徑場整修",
@@ -2810,10 +2810,10 @@
         "下水道"
       ],
       "category": "既有建設、本任擴充",
-      "status": "行政資料稱增量完成",
+      "status": "中央統計可核對接管增量；環境效益待核",
       "before": "持續建置的跨任市政工程。",
-      "now": "市府2025公告：普及率2022年底19.82%至2024年11月22.49%，增加6,416戶。 第8次另列接管率25.83%，但兩組增量統計期間、分母仍須勾稽，不能直接相加。",
-      "verdict": "可認列這段增量2.67個百分點；不能把既有總接管戶都算本任。缺獨立竣工戶數與污染改善證據。",
+      "now": "國土署111年12月公共污水下水道普及率19.82%，115年7月25.83%，增加6.01個百分點；115年7月累計公共接管49,055戶。同期整體污水處理率由67.94%至71.86%，增加3.92個百分點，兩個指標不能混用。 第8次另列接管率25.83%，但兩組增量統計期間、分母仍須勾稽，不能直接相加。",
+      "verdict": "中央發布原表支持任期期間公共接管普及率上升；49,055戶是累計總量，不能全部列本任新增。兩期均註明依第五期建設計畫修正公式，人口及戶量分母隨月份變動；不能用百分點增量直接推算新增戶數，也不能代替河川水質、設備運轉及用戶實際使用成效。",
       "page": 82,
       "oldpage": 0,
       "evidence": [
@@ -2826,8 +2826,25 @@
           "label": "2025-01-02：接管增量與基準",
           "url": "https://dep-publicwork.hccg.gov.tw/ch/home.jsp?dataserno=202501020004&id=16&mcustomize=municipalnews_view.jsp&mserno=201601300036&parentpath=&t=MunicipalNews&toolsflag=Y",
           "kind": "市府／行政原始資料"
+        },
+        {
+          "label": "國土署111年12月原表：新竹市及公式備註",
+          "url": "https://www.nlma.gov.tw/uploads/files/7d9b4b1c358a2202851b40376593118d.ods",
+          "kind": "中央污水統計原表／地方填報彙整",
+          "checked_on": "2026-10-03"
+        },
+        {
+          "label": "國土署115年7月原表：新竹市及接管戶數",
+          "url": "https://www.nlma.gov.tw/uploads/files/d4f537f961164eabe326c44197f59f68.ods",
+          "kind": "中央污水統計原表／地方填報彙整",
+          "checked_on": "2026-10-03"
         }
       ],
+      "crosscheck": {
+        "checked_on": "2026-10-03",
+        "finding": "已讀國土署111年12月與115年7月ODS原表，新竹市公共污水下水道普及率19.82%→25.83%（增加6.01個百分點），最新公共接管戶數49,055戶。整體污水處理率67.94%→71.86%是另一指標，增加3.92個百分點。",
+        "limit": "基準為2022年底，並非12月25日就職當天；公式同屬第五期修正口徑，但各月人口、戶量分母不同。2022年底表未列同欄累計接管戶數，尚不能用本輪原表獨立確認新增戶數。中央彙整地方填報，並非逐戶現場查驗；河川水質與客雅二期擴建另案核驗。"
+      },
       "report": 8,
       "mentions": [
         {
@@ -2899,10 +2916,10 @@
         "100.17"
       ],
       "category": "財政成果歸因待核",
-      "status": "市府自述、待財務核對",
+      "status": "中央表列非自償及短期債務為0；仍有自償性債務",
       "before": "前任2022年底債務是比較基準；負債口徑與基金範圍須一致。",
-      "now": "報告稱2026年7月底清償100.17億元、達零負債。",
-      "verdict": "尚未與最新債務表、決算及財劃法新增收入勾稽。不能把償債金額當作節省金額，也不能推論所有會計負債為零。",
+      "now": "施政報告稱2026年7月底清償100.17億元。財政部115年7、8月底原表，新竹市1年以上非自償債務與未滿1年債務實際數均列0，另列自償性債務15億元（億元單位、四捨五入）。",
+      "verdict": "中央統計支持限定口徑的清償成果，不能概括為所有債務或所有會計負債清零。15億元為表列自償性債務約數；預算數11億元不是當期實際負債。100.17億元累計償債額、收入來源與個人政策貢獻仍待逐年決算勾稽。",
       "page": 83,
       "oldpage": 0,
       "evidence": [
@@ -2910,8 +2927,25 @@
           "label": "第8次報告 PDF第83頁（背景與進度）",
           "url": "https://www.hccg.gov.tw/hccg/app/data/doc?id=30522&module=Mayorgovernance&detailNo=1549294628417572864&serno=dee91e5b-ad4b-410f-95e9-1dd75abd9fe6&type=s&preview=&aplistdn=#page=83",
           "kind": "市府施政自述"
+        },
+        {
+          "label": "財政部115年7月底公共債務表：新竹市列及備註3、4",
+          "url": "https://www.nta.gov.tw/download/4e18073ccc8e48a48312b5387543a149",
+          "kind": "中央財政統計原表／已核對",
+          "checked_on": "2026-10-03"
+        },
+        {
+          "label": "財政部115年8月底公共債務表：新竹市列及備註3、4",
+          "url": "https://www.nta.gov.tw/download/df9f43b2e0204687bb53860086bcae1c",
+          "kind": "中央財政統計原表／已核對",
+          "checked_on": "2026-10-03"
         }
       ],
+      "crosscheck": {
+        "checked_on": "2026-10-03",
+        "finding": "已讀財政部115年7、8月底公共債務原表並核對欄位：新竹市非自償及短期債務實際數均列0，自償性債務另列15億元。可確認有限口徑下的財務成果；「市政零負債」必須附上口徑。",
+        "limit": "月報以億元呈現並四捨五入，不能用表列0證明精確到元的餘額為零；尚缺2022年底同口徑基準、累計償債100.17億元及償債資金來源的逐筆決算資料。自償性債務、應付款及其他會計負債應另外檢視。"
+      },
       "report": 8,
       "mentions": [
         {
