@@ -8,11 +8,13 @@
 !/docs/councilors/
 /docs/councilors/*
 !/docs/councilors/index.html
+!/docs/councilors/tracking.html
 !/docs/councilors/records/
 /docs/councilors/records/*
 !/docs/mayor/
 /docs/mayor/*
 !/docs/mayor/index.html
+!/docs/mayor/promises.html
 !/docs/mayor/projects.json
 !/docs/mayor/kao.html
 !/docs/mayor/profile.json
