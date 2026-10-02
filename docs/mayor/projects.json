@@ -1298,9 +1298,9 @@
       ],
       "category": "前任起案、本任續推",
       "status": "尚未完成",
-      "before": "2022年已有設計決標與簽約；前任報告列建設計畫。",
+      "before": "2019年獲中央補助、2020年起招標；2022年6月工程決標，10月在陳章賢代理期間開工，早於本任就職。",
       "now": "第8次報告為地上2樓底板灌漿，預計2027年主結構完工。",
-      "verdict": "施工進度可認列，不能算已交付新圖書館。16.4億元工程經費也不等於已花完或已驗收。",
+      "verdict": "前任起案、本任續建，尚未交付開館。審計已指出管線調查、進度管理及施工品質缺失；2026年報告目標為2027年主結構完工，不能算已完成圖書館。16.4億元經費亦不等於已實支或驗收。",
       "page": 132,
       "oldpage": 19,
       "evidence": [
@@ -1310,7 +1310,7 @@
           "kind": "市府施政自述"
         },
         {
-          "label": "2022-07-01：設計簽約",
+          "label": "2022-07-01：工程簽約（原訂2025年完工）",
           "url": "https://culture.hccg.gov.tw/ch/home.jsp?dataserno=202207010004&id=531&mcustomize=municipalnews_view.jsp&mserno=201601300215&parentpath=&t=MunicipalNews&toolsflag=Y",
           "kind": "市府／行政原始資料"
         },
@@ -1318,6 +1318,16 @@
           "label": "前任2022年報告 PDF第19頁",
           "url": "https://dep-administration.hccg.gov.tw/uploaddowndoc?file=Mayorgovernance%2F202209161017110.pdf&filedisplay=%E7%AC%AC10%E5%B1%86%E7%AC%AC8%E6%AC%A1%E5%AE%9A%E6%9C%9F%E6%9C%83%E5%B8%82%E9%95%B7%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A.pdf&flag=doc#page=19",
           "kind": "前任市府施政自述"
+        },
+        {
+          "label": "113年度審核報告：總圖工程（乙-33至34）",
+          "url": "https://auditreport.audit.gov.tw/ServerFile/Get/6388844488172037361d7c488f752f4d70bea2b8ac7b30f681",
+          "kind": "審計部獨立查核"
+        },
+        {
+          "label": "市府說明：柱體鋼筋偏移、補強與33.79%進度",
+          "url": "https://www.hccg.gov.tw/hccg/app/data/view?id=30207&module=municipalnews&serno=6694f8f1-3fdd-4107-849a-016c2af97626",
+          "kind": "市府／行政原始資料"
         }
       ],
       "report": 8,
