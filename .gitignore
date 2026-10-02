@@ -136,4 +136,8 @@
 !/docs/mayor/projects/37.html
 !/docs/mayor/projects/38.html
 !/docs/google145a6859a2b6d25a.html
+!/docs/review/
+/docs/review/*
+!/docs/review/index.html
+!/docs/review/claims.json
 !/docs/.nojekyll
