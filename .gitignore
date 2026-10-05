@@ -26,6 +26,7 @@
 !/docs/mayor/projects/
 /docs/mayor/projects/*
 !/docs/sitemap.xml
+!/docs/sitemap.txt
 !/docs/share.png
 !/docs/councilors/people/
 /docs/councilors/people/*
@@ -140,4 +141,12 @@
 /docs/review/*
 !/docs/review/index.html
 !/docs/review/claims.json
+!/docs/villages/
+/docs/villages/*
+!/docs/mayor/child-safety.html
+!/docs/villages/east.html
+!/docs/villages/index.html
+!/docs/villages/north.html
+!/docs/villages/xiangshan.html
+!/docs/villages/zhongai-check.html
 !/docs/.nojekyll

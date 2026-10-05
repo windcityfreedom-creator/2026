@@ -36,6 +36,7 @@ https://windcityfreedom-creator.github.io/2026/councilors/people/34.html
 https://windcityfreedom-creator.github.io/2026/councilors/tracking.html
 https://windcityfreedom-creator.github.io/2026/
 https://windcityfreedom-creator.github.io/2026/mayor/baseball.html
+https://windcityfreedom-creator.github.io/2026/mayor/child-safety.html
 https://windcityfreedom-creator.github.io/2026/mayor/culture.html
 https://windcityfreedom-creator.github.io/2026/mayor/index.html
 https://windcityfreedom-creator.github.io/2026/mayor/kao.html
@@ -81,3 +82,8 @@ https://windcityfreedom-creator.github.io/2026/mayor/promises-analysis.html
 https://windcityfreedom-creator.github.io/2026/mayor/promises.html
 https://windcityfreedom-creator.github.io/2026/method.html
 https://windcityfreedom-creator.github.io/2026/review/index.html
+https://windcityfreedom-creator.github.io/2026/villages/east.html
+https://windcityfreedom-creator.github.io/2026/villages/index.html
+https://windcityfreedom-creator.github.io/2026/villages/north.html
+https://windcityfreedom-creator.github.io/2026/villages/xiangshan.html
+https://windcityfreedom-creator.github.io/2026/villages/zhongai-check.html
