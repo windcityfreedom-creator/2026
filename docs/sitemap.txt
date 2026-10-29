@@ -50,6 +50,7 @@ https://windcityfreedom-creator.github.io/2026/mayor/events.html
 https://windcityfreedom-creator.github.io/2026/mayor/ho.html
 https://windcityfreedom-creator.github.io/2026/mayor/index.html
 https://windcityfreedom-creator.github.io/2026/mayor/kao.html
+https://windcityfreedom-creator.github.io/2026/mayor/keya-water.html
 https://windcityfreedom-creator.github.io/2026/mayor/lin.html
 https://windcityfreedom-creator.github.io/2026/mayor/projects/01.html
 https://windcityfreedom-creator.github.io/2026/mayor/projects/02.html
@@ -94,12 +95,18 @@ https://windcityfreedom-creator.github.io/2026/mayor/promises.html
 https://windcityfreedom-creator.github.io/2026/mayor/rice-noodle.html
 https://windcityfreedom-creator.github.io/2026/method.html
 https://windcityfreedom-creator.github.io/2026/review/chamber-signs.html
+https://windcityfreedom-creator.github.io/2026/review/cheng-allegation.html
+https://windcityfreedom-creator.github.io/2026/review/cheng-visit.html
 https://windcityfreedom-creator.github.io/2026/review/committee-proxy.html
+https://windcityfreedom-creator.github.io/2026/review/cross-strait.html
 https://windcityfreedom-creator.github.io/2026/review/debt-question.html
 https://windcityfreedom-creator.github.io/2026/review/debt-scope.html
+https://windcityfreedom-creator.github.io/2026/review/defense-budget.html
 https://windcityfreedom-creator.github.io/2026/review/egg-freezing.html
 https://windcityfreedom-creator.github.io/2026/review/index.html
+https://windcityfreedom-creator.github.io/2026/review/ma-case.html
 https://windcityfreedom-creator.github.io/2026/review/rice-formaldehyde.html
+https://windcityfreedom-creator.github.io/2026/review/spouse-proposal.html
 https://windcityfreedom-creator.github.io/2026/villages/east.html
 https://windcityfreedom-creator.github.io/2026/villages/index.html
 https://windcityfreedom-creator.github.io/2026/villages/north.html
