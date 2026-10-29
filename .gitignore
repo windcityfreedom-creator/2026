@@ -154,6 +154,10 @@
 /docs/review/*
 !/docs/review/index.html
 !/docs/review/claims.json
+!/docs/review/debt-scope.html
+!/docs/review/egg-freezing.html
+!/docs/review/index.html
+!/docs/review/rice-formaldehyde.html
 !/docs/villages/
 /docs/villages/*
 !/docs/mayor/child-safety.html
