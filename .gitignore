@@ -154,6 +154,9 @@
 /docs/review/*
 !/docs/review/index.html
 !/docs/review/claims.json
+!/docs/review/chamber-signs.html
+!/docs/review/committee-proxy.html
+!/docs/review/debt-question.html
 !/docs/review/debt-scope.html
 !/docs/review/egg-freezing.html
 !/docs/review/index.html
