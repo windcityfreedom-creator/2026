@@ -226,3 +226,5 @@
 
 !/docs/villages/people/
 !/docs/villages/people/*.html
+
+!/docs/judicial-*.html
