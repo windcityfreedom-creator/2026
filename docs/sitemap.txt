@@ -126,6 +126,7 @@ https://windcityfreedom-creator.github.io/2026/mayor/ho.html
 https://windcityfreedom-creator.github.io/2026/mayor/index.html
 https://windcityfreedom-creator.github.io/2026/mayor/kao.html
 https://windcityfreedom-creator.github.io/2026/mayor/keya-water.html
+https://windcityfreedom-creator.github.io/2026/mayor/library-trips.html
 https://windcityfreedom-creator.github.io/2026/mayor/lin.html
 https://windcityfreedom-creator.github.io/2026/mayor/projects/01.html
 https://windcityfreedom-creator.github.io/2026/mayor/projects/02.html
@@ -182,6 +183,7 @@ https://windcityfreedom-creator.github.io/2026/review/index.html
 https://windcityfreedom-creator.github.io/2026/review/ma-case.html
 https://windcityfreedom-creator.github.io/2026/review/rice-formaldehyde.html
 https://windcityfreedom-creator.github.io/2026/review/spouse-proposal.html
+https://windcityfreedom-creator.github.io/2026/updates.html
 https://windcityfreedom-creator.github.io/2026/villages/east.html
 https://windcityfreedom-creator.github.io/2026/villages/index.html
 https://windcityfreedom-creator.github.io/2026/villages/north.html
@@ -309,4 +311,3 @@ https://windcityfreedom-creator.github.io/2026/villages/people/xiangshan-23.html
 https://windcityfreedom-creator.github.io/2026/villages/people/xiangshan-24.html
 https://windcityfreedom-creator.github.io/2026/villages/xiangshan.html
 https://windcityfreedom-creator.github.io/2026/villages/zhongai-check.html
-https://windcityfreedom-creator.github.io/2026/mayor/library-trips.html
